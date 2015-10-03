@@ -1,0 +1,22 @@
+.center-horizontal-background {
+    background-image: url('../images/background-inner.jpg');
+}
+
+.langs {
+    background: #dedcda;
+}
+
+.projector {
+    background: url('../images/video/projector.png') no-repeat;
+    width: 855px;
+    height: 759px;
+    position: absolute;
+    top: 0;
+    left: 133px;
+}
+
+.video {
+    position: absolute;
+    top: 82px;
+    left: 77px;
+}

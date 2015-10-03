@@ -1,0 +1,33 @@
+.center-horizontal-background {
+    background-image: url('../images/kuznetsov/background.jpg');
+}
+
+.views {
+    width: 123px;
+    height: 158px;
+    position: absolute;
+    top: 71px;
+    left: 749px;
+}
+
+.opening {
+    width: 158px;
+    height: 119px;
+    position: absolute;
+    top: 252px;
+    left: 728px;
+}
+
+.map {
+    width: 115px;
+    height: 146px;
+    position: absolute;
+    top: 397px;
+    left: 749px;
+}
+
+.map a {
+    cursor: -webkit-zoom-in;
+    cursor: -moz-zoom-in;
+    cursor: zoom-in;
+}

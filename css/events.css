@@ -1,0 +1,426 @@
+.center-horizontal-background {
+    background-image: url('../images/background-inner.jpg');
+}
+
+.langs {
+    background: #dedcda;
+}
+
+.menu {
+    display: none;
+}
+
+.catalog-wrapper {
+    background: url('../images/events/catalog.png') no-repeat;
+    width: 1187px;
+    height: 654px;
+    position: absolute;
+    top: 78px;
+    left: -85px;
+}
+
+.catalog-close {
+    position: absolute;
+    left: 93px;
+    top: 9px;
+    font-size: 12px;
+    color: #393939;
+    text-decoration: none;
+}
+
+.catalog-close:hover {
+    text-decoration: underline;
+}
+
+.catalog-menu {
+    position: absolute;
+    left: 85px;
+    top: 27px;
+    width: 174px;
+    text-align: right;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    line-height: 22px;
+    color: #393939;
+}
+
+.catalog-menu-item {
+    padding-right: 13px;
+}
+
+.catalog-menu-year {
+    background: url("../images/events/year-background.png") repeat-y;
+}
+
+.catalog-menu-year-2011 {
+    margin-top: 20px;
+}
+
+.catalog-menu-link {
+    color: #393939;
+    text-decoration: none;
+}
+
+.catalog-menu-link:hover {
+    text-decoration: underline;
+}
+
+.catalog {
+    width: 822px;
+    height: 611px;
+    position: absolute;
+    left: 265px;
+    top: -1px;
+}
+
+.catalog-page {
+    width: 411px;
+    height: 611px;
+}
+
+.catalog-page-1 {
+    background: url('../images/events/01.jpg');
+}
+
+.catalog-page-2 {
+    background: url('../images/events/02.jpg');
+}
+
+.catalog-page-3 {
+    background: url('../images/events/03.jpg');
+}
+
+.catalog-page-4 {
+    background: url('../images/events/04.jpg');
+}
+
+.catalog-page-5 {
+    background: url('../images/events/05.jpg');
+}
+
+.catalog-page-6 {
+    background: url('../images/events/06.jpg');
+}
+
+.catalog-page-7 {
+    background: url('../images/events/07.jpg');
+}
+
+.catalog-page-8 {
+    background: url('../images/events/08.jpg');
+}
+
+.catalog-page-9 {
+    background: url('../images/events/09.jpg');
+}
+
+.catalog-page-10 {
+    background: url('../images/events/10.jpg');
+}
+
+.catalog-page-11 {
+    background: url('../images/events/11.jpg');
+}
+
+.catalog-page-12 {
+    background: url('../images/events/12.jpg');
+}
+
+.catalog-page-1-events {
+    position: absolute;
+    left: 31px;
+    top: 25px;
+    font-size: 14px;
+    letter-spacing: 1px;
+    color: #fefefe;
+}
+
+.catalog-page-3-events {
+    position: absolute;
+    left: 19px;
+    top: 40px;
+    font-size: 14px;
+    letter-spacing: 1px;
+    color: #fefefe;
+}
+
+.catalog-page-5-events {
+    position: absolute;
+    left: 9px;
+    top: 16px;
+    font-size: 14px;
+    letter-spacing: 1px;
+    color: #fefefe;
+}
+
+.catalog-page-7-events {
+    position: absolute;
+    left: 37px;
+    top: 17px;
+    font-size: 14px;
+    letter-spacing: 1px;
+    color: #F9FAFC;
+}
+
+.catalog-page-9-events {
+    position: absolute;
+    left: 12px;
+    top: 17px;
+    font-size: 14px;
+    letter-spacing: 1px;
+    color: #fefefe;
+}
+
+.catalog-page-11-events {
+    position: absolute;
+    left: 31px;
+    top: 25px;
+    font-size: 14px;
+    letter-spacing: 1px;
+    color: #fefefe;
+}
+
+.catalog-page-1-date {
+    position: absolute;
+    left: 181px;
+    top: 25px;
+    font-size: 14px;
+    letter-spacing: 1px;
+    color: #fefcfc;
+    text-align: right;
+    width: 200px;
+}
+
+.catalog-page-3-date {
+    position: absolute;
+    left: 99px;
+    top: 40px;
+    font-size: 14px;
+    letter-spacing: 1px;
+    color: #fefcfc;
+    text-align: right;
+    width: 200px;
+}
+
+.catalog-page-5-date {
+    position: absolute;
+    left: 37px;
+    top: 16px;
+    font-size: 14px;
+    letter-spacing: 1px;
+    color: #fefcfc;
+    text-align: right;
+    width: 200px;
+}
+
+.catalog-page-7-date {
+    position: absolute;
+    left: 149px;
+    top: 17px;
+    font-size: 14px;
+    letter-spacing: 1px;
+    color: #fcfcfc;
+    text-align: right;
+    width: 200px;
+}
+
+.catalog-page-9-date {
+    position: absolute;
+    left: 34px;
+    top: 17px;
+    font-size: 14px;
+    letter-spacing: 1px;
+    color: #fefcfc;
+    text-align: right;
+    width: 200px;
+}
+
+.catalog-page-11-date {
+    position: absolute;
+    left: 181px;
+    top: 25px;
+    font-size: 14px;
+    letter-spacing: 1px;
+    color: #fffefe;
+    text-align: right;
+    width: 200px;
+}
+
+.catalog-page-2-title {
+    position: absolute;
+    left: 43px;
+    top: 25px;
+    width: 412px;
+    font-size: 31px;
+    letter-spacing: 3px;
+    color: #fdfdfd;
+}
+
+.catalog-page-4-title {
+    position: absolute;
+    left: -2px;
+    top: 32px;
+    width: 413px;
+    font-size: 22px;
+    line-height: 26px;
+    letter-spacing: 3px;
+    text-align: center;
+    color: #fbf7f7;
+}
+
+.catalog-page-6-title {
+    position: absolute;
+    left: -5px;
+    top: 30px;
+    width: 413px;
+    font-size: 32px;
+    letter-spacing: 3px;
+    text-align: center;
+    color: #fdfdfd;
+}
+
+.catalog-page-8-title {
+    position: relative;
+    left: 1px;
+    top: 12px;
+    width: 413px;
+    height: 72px;
+    font-size: 32px;
+    line-height: 36px;
+    letter-spacing: 3px;
+    text-align: center;
+    color: #FDFDFD;
+    vertical-align: middle;
+    display: table-cell;
+}
+
+.catalog-page-10-title {
+    position: absolute;
+    left: 1px;
+    top: 12px;
+    width: 413px;
+    height: 72px;
+    font-size: 22px;
+    line-height: 26px;
+    letter-spacing: 3px;
+    text-align: center;
+    color: #FDFDFD;
+}
+
+.catalog-page-12-title {
+    position: absolute;
+    left: 1px;
+    top: 22px;
+    width: 413px;
+    height: 72px;
+    font-size: 22px;
+    line-height: 27px;
+    letter-spacing: 3px;
+    text-align: center;
+    color: #fdfdfd;
+}
+
+.catalog-page-2-subtitle {
+    position: absolute;
+    left: 44px;
+    top: 65px;
+    width: 412px;
+    font-size: 17px;
+    letter-spacing: 1px;
+    color: #fdfdfd;
+}
+
+.catalog-page-1-story {
+    position: absolute;
+    left: 31px;
+    top: 524px;
+    width: 357px;
+    font-size: 13px;
+    line-height: 16px;
+    color: #3F3A36;
+}
+
+.catalog-page-4-story {
+    position: absolute;
+    left: 42px;
+    top: 502px;
+    width: 337px;
+    font-size: 15px;
+    line-height: 16px;
+    color: #CECEC0;
+}
+
+.catalog-page-5-story {
+    position: absolute;
+    left: 18px;
+    top: 529px;
+    width: 200px;
+    font-size: 15px;
+    line-height: 16px;
+    color: #EDECEB;
+}
+
+.catalog-page-7-story {
+    position: absolute;
+    left: 37px;
+    top: 503px;
+    width: 308px;
+    font-size: 15px;
+    line-height: 16px;
+    color: #FEFDFD;
+    text-align: justify;
+}
+
+.catalog-page-9-story {
+    position: absolute;
+    left: 10px;
+    top: 374px;
+    width: 219px;
+    font-size: 15px;
+    line-height: 16px;
+    color: #FFFEFE;
+    text-align: justify;
+}
+
+.catalog-page-11-story {
+    position: absolute;
+    left: 10px;
+    top: 565px;
+    width: 399px;
+    font-size: 15px;
+    line-height: 16px;
+    color: #fffefe;
+}
+
+.catalog-page-2-description {
+    position: absolute;
+    left: 260px;
+    top: 524px;
+    width: 100px;
+    text-align: right;
+    font-size: 11px;
+    line-height: 12px;
+    color: #3f3a36;
+}
+
+.catalog-page-8-description {
+    position: absolute;
+    left: 276px;
+    top: 441px;
+    width: 100px;
+    text-align: right;
+    font-size: 11px;
+    line-height: 12px;
+    color: #3F3A36;
+}
+
+.catalog-page-10-description {
+    position: absolute;
+    left: 260px;
+    top: 528px;
+    width: 100px;
+    text-align: right;
+    font-size: 11px;
+    line-height: 12px;
+    color: #FEFEFE;
+}

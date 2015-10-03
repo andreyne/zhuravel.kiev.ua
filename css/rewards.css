@@ -1,0 +1,47 @@
+.center-horizontal-background {
+    background-image: url('../images/rewards/background.jpg');
+}
+
+.langs {
+    background: #c5c4b7;
+}
+
+.reward_title {
+    width: 201px;
+    text-align: center;
+    color: white;
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    position: absolute;
+    top: 67px;
+}
+
+.medal_title {
+    left: 274px;
+}
+
+.koronatsiya_title {
+    left: 537px;
+}
+
+.bankir_title {
+    left: 800px;
+}
+
+.medal {
+    position: absolute;
+    left: 293px;
+    top: 108px;
+}
+
+.koronatsiya {
+    position: absolute;
+    left: 584px;
+    top: 125px;
+}
+
+.bankir {
+    position: absolute;
+    left: 820px;
+    top: 128px;
+}

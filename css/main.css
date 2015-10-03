@@ -1,0 +1,116 @@
+html {
+    height: 100%;
+}
+
+body {
+    height: 100%;
+    background: url("../images/background-outer.png") repeat;
+    font-family: Arial, sans-serif;
+    cursor: default;
+}
+
+.hide {
+    display: none;
+}
+
+.logo {
+    width: 140px;
+    height: 50px;
+    position: absolute;
+    left: 1px;
+    top: 9px;
+}
+
+.langs {
+    background: #d3d5d0;
+    height: 12px;
+    width: 140px;
+    font-size: 10px;
+    text-align: center;
+    position: absolute;
+    left: 1px;
+    top: 70px;
+}
+
+.langs .table {
+    width: inherit;
+    height: inherit;
+}
+
+.langs .link {
+    color: #7f7e7c;
+    text-decoration: none;
+}
+
+.langs .link:hover {
+    text-decoration: underline;
+}
+
+.center-vertical {
+    height: 100%;
+    width: 100%;
+}
+
+.center-vertical-inner {
+    vertical-align: middle;
+}
+
+.center-horizontal {
+    min-width: 986px;
+    overflow-x: hidden;
+    height: 780px;
+}
+
+.center-horizontal-background {
+    max-width: 1280px;
+    margin: auto;
+    height: 100%;
+    background: no-repeat center;
+}
+
+.center-horizontal-inner {
+    margin: auto;
+    position: relative;
+    width: 986px;
+    height: 100%;
+}
+
+.menu {
+    width: 140px;
+    position: absolute;
+    top: 95px;
+    left: 20px;
+    line-height: 20px;
+}
+
+.menu-item-1 {
+    color: #7f7e7c;
+    font-size: 17px;
+    text-decoration: none;
+}
+
+.menu-item-1.active, .menu-item-1.active:hover, .menu-item-1:hover {
+    font-weight: bold;
+}
+
+.menu-item-1.text:hover {
+    text-decoration: none;
+    font-weight: normal;
+    cursor: default;
+}
+
+.menu-2 {
+    margin-bottom: 10px;
+}
+
+.menu-item-2 {
+    color: #7f7e7c;
+    font-size: 15px;
+    text-decoration: none;
+    margin-left: 15px;
+    display: block;
+}
+
+.menu-item-2.active, .menu-item-2:hover {
+    font-weight: bold;
+}

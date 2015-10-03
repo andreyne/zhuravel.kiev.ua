@@ -1,0 +1,76 @@
+.center-horizontal-background {
+    background-image: url('../images/home/background.jpg');
+}
+
+.contacts {
+    width: 73px;
+    height: 21px;
+    position: absolute;
+    top: 473px;
+    left: 774px;
+}
+
+.video {
+    width: 122px;
+    height: 47px;
+    position: absolute;
+    top: 456px;
+    left: 614px;
+}
+
+.pioneers {
+    width: 80px;
+    height: 118px;
+    position: absolute;
+    top: 49px;
+    left: 586px;
+}
+
+.human-trees {
+    width: 131px;
+    height: 116px;
+    position: absolute;
+    top: 61px;
+    left: 670px;
+}
+
+.figurative {
+    width: 129px;
+    height: 104px;
+    position: absolute;
+    top: 48px;
+    left: 792px;
+}
+
+.kuznetsov {
+    width: 126px;
+    height: 169px;
+    position: absolute;
+    top: 198px;
+    left: 584px;
+}
+
+.photo {
+    width: 69px;
+    height: 103px;
+    position: absolute;
+    top: 228px;
+    left: 730px;
+}
+
+.rewards {
+    width: 64px;
+    height: 145px;
+    position: absolute;
+    top: 212px;
+    left: 828px;
+}
+
+.shelf {
+    background: url('../images/home/shelf.png') no-repeat;
+    width: 378px;
+    height: 48px;
+    position: absolute;
+    top: 158px;
+    left: 557px;
+}

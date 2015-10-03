@@ -1,0 +1,76 @@
+.center-horizontal-background {
+    background-image: url('../images/pioneers/background.jpg');
+}
+
+.work-1 {
+    width: 331px;
+    height: 132px;
+    position: absolute;
+    top: 81px;
+    left: 524px;
+}
+
+.work-2 {
+    width: 104px;
+    height: 178px;
+    position: absolute;
+    top: 167px;
+    left: 275px;
+}
+
+.work-3 {
+    width: 91px;
+    height: 137px;
+    position: absolute;
+    top: 325px;
+    left: 372px;
+    z-index: 1;
+}
+
+.work-4 {
+    width: 112px;
+    height: 101px;
+    position: absolute;
+    top: 395px;
+    left: 213px;
+}
+
+.work-5 {
+    width: 119px;
+    height: 70px;
+    position: absolute;
+    top: 519px;
+    left: 444px;
+}
+
+.work-6 {
+    width: 143px;
+    height: 94px;
+    position: absolute;
+    top: 337px;
+    left: 560px;
+}
+
+.work-7 {
+    width: 136px;
+    height: 79px;
+    position: absolute;
+    top: 471px;
+    left: 649px;
+}
+
+.work-8 {
+    width: 73px;
+    height: 90px;
+    position: absolute;
+    top: 325px;
+    left: 814px;
+}
+
+.work-9 {
+    width: 114px;
+    height: 78px;
+    position: absolute;
+    top: 543px;
+    left: 797px;
+}

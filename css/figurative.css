@@ -1,0 +1,40 @@
+.center-horizontal-background {
+    background-image: url('../images/background-inner.jpg');
+}
+
+.langs {
+    background: #dedcda;
+}
+
+.socles {
+    background: url('../images/figurative/socles.png') no-repeat;
+    width: 1063px;
+    height: 780px;
+    position: absolute;
+    left: -28px;
+    top: 0;
+}
+
+.figurative-1 {
+    width: 191px;
+    height: 160px;
+    position: absolute;
+    left: 229px;
+    top: 349px;
+}
+
+.figurative-2 {
+    width: 126px;
+    height: 207px;
+    position: absolute;
+    left: 463px;
+    top: 137px;
+}
+
+.figurative-3 {
+    width: 149px;
+    height: 221px;
+    position: absolute;
+    left: 704px;
+    top: 259px;
+}

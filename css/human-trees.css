@@ -1,0 +1,76 @@
+.center-horizontal-background {
+    background-image: url('../images/human-trees/background.jpg');
+}
+
+.work-1 {
+    width: 310px;
+    height: 92px;
+    position: absolute;
+    top: 200px;
+    left: 282px;
+    z-index: 1;
+}
+
+.work-2 {
+    width: 146px;
+    height: 192px;
+    position: absolute;
+    top: 288px;
+    left: 295px;
+}
+
+.work-3 {
+    width: 175px;
+    height: 599px;
+    position: absolute;
+    top: 70px;
+    left: 149px;
+}
+
+.work-4 {
+    width: 128px;
+    height: 202px;
+    position: absolute;
+    top: 315px;
+    left: 822px;
+}
+
+.work-5 {
+    width: 96px;
+    height: 96px;
+    position: absolute;
+    top: 29px;
+    left: 865px;
+}
+
+.work-6 {
+    width: 208px;
+    height: 254px;
+    position: absolute;
+    top: 128px;
+    left: 640px;
+}
+
+.work-7 {
+    width: 221px;
+    height: 183px;
+    position: absolute;
+    top: 343px;
+    left: 460px;
+}
+
+.work-8 {
+    width: 165px;
+    height: 147px;
+    position: absolute;
+    top: 564px;
+    left: 506px;
+}
+
+.work-9 {
+    width: 134px;
+    height: 219px;
+    position: absolute;
+    top: 455px;
+    left: 667px;
+}
