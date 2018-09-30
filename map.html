@@ -6,15 +6,15 @@
     <style>
       html { height: 100% }
       body { height: 100%; margin: 0; padding: 0; }
-      #map { height: 100%; width: 100%; }
+      #mapcanvas { height: 100%; width: 100%; }
     </style>
   </head>
   <body>
-    <div id="map"></div>
+    <div id="mapcanvas"></div>
     <script>
       function initMap() {
         var latlng = {lat: 50.487172, lng: 30.470286};
-        var map = new google.maps.Map(document.getElementById('map'), {
+        var map = new google.maps.Map(document.getElementById('mapcanvas'), {
           center: latlng,
           zoom: 16,
           mapTypeId: google.maps.MapTypeId.ROADMAP
