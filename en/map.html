@@ -1,19 +1,31 @@
-
-
-
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
-    <head>
-        <meta charset="UTF-8"/>
-        <meta name="viewport" content="initial-scale=1.0, user-scalable=no"/>
-
-        <link rel="stylesheet" href="../css/map.css"/>
-
-        <script src="http://maps.google.com/maps/api/js?sensor=false"></script>
-        <script>var markerTitle = "The monument to A. Kuznetsov"</script>
-        <script src="../js/map.js"></script>
-    </head>
-    <body>
-        <div id="map_canvas"></div>
-    </body>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <style>
+      html { height: 100% }
+      body { height: 100%; margin: 0; padding: 0; }
+      #mapcanvas { height: 100%; width: 100%; }
+    </style>
+  </head>
+  <body>
+    <div id="mapcanvas"></div>
+    <script>
+      function initMap() {
+        var latlng = {lat: 50.487172, lng: 30.470286};
+        var map = new google.maps.Map(document.getElementById('mapcanvas'), {
+          center: latlng,
+          zoom: 16,
+          mapTypeId: google.maps.MapTypeId.ROADMAP
+        });
+        new google.maps.Marker({
+          position: latlng,
+          map: map,
+          title: "The monument to A. Kuznetsov"
+        });
+      }
+    </script>
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD-7hMf44sslw-OepHiS-cL58EMJbpIgKY&callback=initMap"></script>
+  </body>
 </html>
